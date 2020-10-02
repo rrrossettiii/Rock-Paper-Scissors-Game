@@ -10,7 +10,7 @@ var rounds = 10;
 // Welcome Alert
 //
 alert(
-	"\t Welcome to Rock, Paper, Scissors! \n You will be playing 10 rounds against a computer. \n \n \n"
+	"\t Welcome to Rock, Paper, Scissors! \n \n You will be playing 10 rounds against a computer. \n \n \n"
 );
 
 // Runs the game
